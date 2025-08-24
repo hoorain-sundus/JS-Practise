@@ -52,3 +52,13 @@
 // let lastElement = myArray.pop();
 // console.log(myArray);
 // console.log(lastElement);
+
+// let myArray = [1, 2, 3, 4, 5];
+// let firstElement = myArray.shift();
+// console.log(myArray);
+// console.log(firstElement);
+
+
+// let myArray = [1, 2, 3, 4, 5];
+// myArray.unshift(0);
+// console.log(myArray);
