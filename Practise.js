@@ -62,3 +62,7 @@
 // let myArray = [1, 2, 3, 4, 5];
 // myArray.unshift(0);
 // console.log(myArray);
+
+// let myArray = [2, 4, 5, 3, 1];
+// myArray.sort();
+// console.log(myArray);
