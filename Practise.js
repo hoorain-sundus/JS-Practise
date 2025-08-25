@@ -66,3 +66,7 @@
 // let myArray = [2, 4, 5, 3, 1];
 // myArray.sort();
 // console.log(myArray);
+
+let myArray = [1, 2, 3, 4, 5];
+myArray.reverse();
+console.log(myArray);
