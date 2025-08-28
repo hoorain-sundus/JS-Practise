@@ -67,6 +67,14 @@
 // myArray.sort();
 // console.log(myArray);
 
-let myArray = [1, 2, 3, 4, 5];
-myArray.reverse();
-console.log(myArray);
+// let myArray = [1, 2, 3, 4, 5];
+// myArray.reverse();
+// console.log(myArray);
+
+// let myArray = [10, 20, 30, 40, 50, 30];
+// let index = myArray.indexOf(30);
+// console.log(index);
+
+// let myArray = [10, 20, 30, 40, 50, 30];
+// let index = myArray.lastIndexOf(30);
+// console.log(index);
