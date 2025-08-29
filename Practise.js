@@ -78,3 +78,8 @@
 // let myArray = [10, 20, 30, 40, 50, 30];
 // let index = myArray.lastIndexOf(30);
 // console.log(index);
+
+// let myArray = [1,2, 3, 4];
+// let hasBanana = myArray.includes(3);
+// console.log(hasBanana);
+
