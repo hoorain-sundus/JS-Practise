@@ -84,8 +84,14 @@
 // console.log(hasBanana);
 
 
-let arr1 = [1, 2];
-let arr2 = [3, 4];
-let combined = arr1.concat(arr2);
-console.log(combined); // Output: [1, 2, 3, 4]
+// let arr1 = [1, 2];
+// let arr2 = [3, 4];
+// let combined = arr1.concat(arr2);
+// console.log(combined); // Output: [1, 2, 3, 4]
+
+
+// let fruits = ["apple", "banana", "orange"];
+// let joined = fruits.join(", ");
+// console.log(joined);
+
 
